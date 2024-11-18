@@ -10,9 +10,3 @@ Agenda:
 * After party
 
 Więcej informacji: [http://pystok.org/pystok-65/](http://pystok.org/pystok-65/)
-
-
-
-" - 
-2. Speed dating (15 min przerwa na networking, przerwa na darmowe piwo)
-3. "Eleganckie pranie brudów z przeszłości - czyli o Event Sourcingu" - 
